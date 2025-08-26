@@ -1,0 +1,1 @@
+My role will be backend development for the project. I will build a backend that supports a wide range of featuress that supports multiple stakeholders for our project. I will focus on building a backend that connects seamlessly with the frontend and the ai components of the project.
